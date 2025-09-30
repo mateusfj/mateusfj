@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi%2C+I'm+happy+because+you+are+here!!!)](https://git.io/typing-svg)
 
-Hello, I'm a computer scientist at [Federal University of Piaui](https://ufpi.br/). <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="30px"></a>
+Hi, I'm a full stack developer.(https://ufpi.br/). <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="30px"></a>
 
 - 🍃 I’m currently working with Reactjs, Nextjs, Nestjs...
 - 👍 Nowadays, I'm getting certifications.
