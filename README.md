@@ -17,8 +17,8 @@ Hello, I'm a computer scientist at [Federal University of Piaui](https://ufpi.br
 <p align="center">
     <a href="https://github.com/mateusfj">
         <img align="center"
-             src="https://github-readme-stats.vercel.app/api?username=Pedroffda&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true&ring_color=pink"
-             alt="pedroffda's github stats" width="500"/>
+             src="https://github-readme-stats.vercel.app/api?username=MateusFJ&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true&ring_color=pink"
+             alt="mateusfj's github stats" width="500"/>
     </a> 
 </p>
 
@@ -26,6 +26,6 @@ Hello, I'm a computer scientist at [Federal University of Piaui](https://ufpi.br
     <a href="https://github.com/mateusfj">
         <img align="center"
              src="https://wakatime.com/share/@mateusfj/ff37a97d-6db1-42cd-81da-032fc83d651d.png"
-             alt="pedroffda's github stats" width="500"/>
+             alt="mateusfj's github stats" width="500"/>
     </a> 
 </p>
