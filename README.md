@@ -11,13 +11,3 @@ Hello, I'm a fullstack developer.<a href="https://www.gautamkrishnar.com/"><img 
 - ⚡ Fun fact: I love music, games, animes and playing soccer.
 
 <hr>
-
-### 🏆 Github Stats & Languages
-
-<p align="center">
-    <a href="https://github.com/mateusfj">
-        <img align="center"
-             src="https://github-readme-stats.vercel.app/api?username=mateusfj&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true&ring_color=pink"
-             alt="mateusfj's github stats" width="500"/>
-    </a> 
-</p>
