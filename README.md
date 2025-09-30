@@ -1,5 +1,5 @@
-[![zap](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedro.ffda/)
-[![zap](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedroffda/)
+[![zap](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateus_fjj/)
+[![zap](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusfj/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi%2C+I'm+happy+because+you+are+here!!!)](https://git.io/typing-svg)
 
