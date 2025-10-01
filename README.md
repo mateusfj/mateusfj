@@ -9,3 +9,6 @@ Hello, I'm a fullstack developer.<a href="https://www.gautamkrishnar.com/"><img 
 - 👍 Nowadays, I'm getting certifications.
 - 📫 How to reach me: mateusfj8144@gmail.com
 - ⚡ Fun fact: I love music, games, animes and playing soccer.
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
