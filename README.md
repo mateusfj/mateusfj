@@ -11,4 +11,4 @@ Hello, I'm a fullstack developer.<a href="https://www.gautamkrishnar.com/"><img 
 - ⚡ Fun fact: I love music, games, animes and playing soccer.
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mateusfj)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mateusfj)](https://github.com/mateusfj/github-readme-stats)
