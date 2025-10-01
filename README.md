@@ -9,6 +9,3 @@ Hello, I'm a fullstack developer.<a href="https://www.gautamkrishnar.com/"><img 
 - 👍 Nowadays, I'm getting certifications.
 - 📫 How to reach me: mateusfj8144@gmail.com
 - ⚡ Fun fact: I love music, games, animes and playing soccer.
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfj&stats_format=bytes)
