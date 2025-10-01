@@ -11,4 +11,4 @@ Hello, I'm a fullstack developer.<a href="https://www.gautamkrishnar.com/"><img 
 - ⚡ Fun fact: I love music, games, animes and playing soccer.
 
 
-![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusfj&show_icons=true&theme=radical&count_private=true&include_all_commits=true&token=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)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfj&stats_format=bytes)
