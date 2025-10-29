@@ -5,7 +5,7 @@
 
 Hello, I'm a fullstack developer.<a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="30px"></a>
 
-- 🍃 I’m currently working with Reactjs, Nextjs, Shadcn UI...
+- 🍃 I’m currently working with Reactjs, Nextjs, Nest, PHP...
 - 👍 Nowadays, I'm getting certifications.
 - 📫 How to reach me: mateusfj8144@gmail.com
 - ⚡ Fun fact: I love music, games, animes and playing soccer.
